@@ -1,0 +1,55 @@
+{
+  "name": "nebular",
+  "displayName": "Nebular",
+  "description": "ticccco's Nebular theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "ticccco",
+  "author": {
+    "name": "Lucas Placentino"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasPlacentino/nebular-vscode"
+  },
+  "sponsor": {
+    "url": "https://ko-fi.com/lucasplacentino"
+  },
+  "bugs": {
+    "url": "https://github.com/LucasPlacentino/nebular-vscode/issues"
+  },
+  "homepage": "https://github.com/LucasPlacentino/nebular-vscode/blob/main/README.md",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Nebular",
+    "Nebula",
+    "Space",
+    "Purple",
+    "Violet"
+  ],
+  "license": "CC0",
+  "galleryBanner": {
+    "color": "#8305bc",
+    "theme": "dark"
+  },
+  "icon": "nebular-icon.png",
+  "badges": [
+  ],
+  "preview": false,
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nebular",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nebular-color-theme.json"
+      }
+    ]
+  }
+}
