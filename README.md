@@ -1,5 +1,6 @@
 # Nebular - ticccco's theme for VS Code
-## Get it on the [VS Code MArketplace](https://marketplace.visualstudio.com/manage/publishers/obsilab/extensions/nebular/hub)
+## Get it on the [VS Code Marketplace](https://marketplace.visualstudio.com/manage/publishers/obsilab/extensions/nebular/hub)
+**See also [Nebular for Oh-My-Posh](https://github.com/LucasPlacentino/nebular-omp)**
 
 * Nebula colors
 * Dark theme
