@@ -9,7 +9,7 @@ Latest changes are on top.
 
 ## [1.0.1]
 
-- README.md update
+- README update
 - todo: -darker theme
 - todo: ci github actions
 
