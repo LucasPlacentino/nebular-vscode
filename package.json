@@ -2,7 +2,7 @@
   "name": "nebular",
   "displayName": "Nebular",
   "description": "ticccco's Nebular theme for VS Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "obsilab",
   "author": {
     "name": "Lucas Placentino"
@@ -40,8 +40,7 @@
     "theme": "dark"
   },
   "icon": "nebular-icon.jpg",
-  "badges": [
-  ],
+  "badges": [],
   "preview": false,
   "contributes": {
     "themes": [
