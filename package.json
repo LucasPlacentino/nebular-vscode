@@ -1,6 +1,6 @@
 {
   "name": "nebular",
-  "displayName": "Nebular",
+  "displayName": "Nebular Theme",
   "description": "ticccco's Nebular theme for VS Code",
   "version": "1.0.3",
   "publisher": "obsilab",
@@ -17,22 +17,29 @@
   "bugs": {
     "url": "https://github.com/LucasPlacentino/nebular-vscode/issues"
   },
-  "homepage": "https://github.com/LucasPlacentino/nebular-vscode/blob/main/README.md",
+  "homepage": "https://github.com/LucasPlacentino/nebular-vscode",
   "engines": {
     "vscode": "^1.74.0"
   },
   "categories": [
-    "Themes",
-    "Other"
+    "Themes"
   ],
   "keywords": [
-    "Theme",
-    "Dark Theme",
-    "Nebular",
-    "Nebula",
-    "Space",
-    "Purple",
-    "Violet"
+    "theme",
+    "dark",
+    "dark theme",
+    "color theme",
+    "nebular",
+    "nebula",
+    "space",
+    "galaxy",
+    "cosmos",
+    "universe",
+    "purple",
+    "violet",
+    "omp",
+    "ohmyposh",
+    "oh-my-posh"
   ],
   "license": "CC0",
   "galleryBanner": {
@@ -45,7 +52,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nebular",
+        "label": "Nebular Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/nebular-color-theme.json"
       }
