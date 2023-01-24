@@ -1,6 +1,9 @@
-# 🌌 Nebular 🚀 - ticccco's theme for VS Code
-## Get it on the [VS Code Marketplace 🛍️](https://marketplace.visualstudio.com/manage/publishers/obsilab/extensions/nebular/hub)
-**See also [Nebular for Oh-My-Posh](https://github.com/LucasPlacentino/nebular-omp) !**
+<img align="right" height="180" title="image from Unsplash" src="https://user-images.githubusercontent.com/23436953/214436512-e7ca04b5-577b-4d79-87aa-aef7e0dce467.jpg">
+
+# 🌌 Nebular 🚀
+**ticccco's theme for VS Code**
+## > Get it on the [VS Code Marketplace 🛍️](https://marketplace.visualstudio.com/manage/publishers/obsilab/extensions/nebular/hub) <  
+**! See also [Nebular for Oh-My-Posh](https://github.com/LucasPlacentino/nebular-omp) !**
 
 * Nebula colors
 * Dark theme
