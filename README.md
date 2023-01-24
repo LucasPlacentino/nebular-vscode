@@ -1,4 +1,5 @@
 # Nebular - ticccco's theme for VS Code
+## Get it on the [VS Code MArketplace](https://marketplace.visualstudio.com/manage/publishers/obsilab/extensions/nebular/hub)
 
 * Nebula colors
 * Dark theme
