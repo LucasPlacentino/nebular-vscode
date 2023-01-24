@@ -1,9 +1,18 @@
-# Change Log
+# Changelog
 
-All notable changes to the "nebular" extension will be documented in this file.
+All notable changes to the "nebular" theme will be documented in this file.  
+Latest changes are on top.  
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.2]
 
-## [Unreleased]
+- updated changelog
+
+## [1.0.1]
+
+- README.md update
+- todo: -darker theme
+- todo: ci github actions
+
+## [1.0.0]
 
 - Initial release
