@@ -12,6 +12,7 @@
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/23436953/214435021-d23af0d0-14dd-40f8-8524-8a32d9a1344c.png)
+> font: CaskaydiaCove NF Mono (Medium weight)
 
 ![nebular-1](https://user-images.githubusercontent.com/23436953/214371921-6e6f4f0b-9004-49d3-b958-be7cb474ec5a.jpeg)
 

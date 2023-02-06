@@ -3,6 +3,9 @@
 All notable changes to the "nebular" theme will be documented in this file.  
 Latest changes are on top.  
 
+## [1.0.4]
+- add font info from screenshot
+
 ## [1.0.3]
 
 - added screenshot
